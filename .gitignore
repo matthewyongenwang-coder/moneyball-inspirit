@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.DS_Store
+# Bundled data is large; the app falls back to downloading it from GitHub
+# (see moneyball.py). Keep it local for offline demos, out of the repo.
+data/
+data_teams_local.csv
